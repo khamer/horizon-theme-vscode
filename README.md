@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://horizontheme.com/">
+  <a href="https://horizontheme.netlify.com/">
     <img alt="horizon banner" src="https://i.imgur.com/pwBUCSe.png">
   </a>
 </p>
@@ -34,7 +34,7 @@
 5. Select **Preferences: Color Theme** and choose a Horizon variant.
 6. Enjoy! 🎉 Also, check out some of the personalization options below...
 
-### Visit [horizontheme.com](https://horizontheme.com/) for some nice previews and a color reference :)
+### Visit [horizontheme.netlify.com](https://horizontheme.netlify.com/) for some nice previews and a color reference :)
 
 ## Personalization
 
